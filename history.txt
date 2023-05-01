@@ -1,0 +1,50 @@
+  459  open
+  460  open .
+  461  dev
+  462  ls
+  463  cd UCB-VIRT-FIN-PT-03-2023-U-B/
+  464  ls
+  465  cd 06-Data-Visualization-with-PyViz/
+  466  ls
+  467  cd ..
+  468  ls
+  469  code .
+  470  traceroute www.google.com
+  471  ping 10.0.0.1
+  472  ping 10.0.0.1
+  473  cd ~/Desktop/
+  474  ls
+  475  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-03-2023-U-B.git
+  476  cd UCB-VIRT-FIN-PT-03-2023-U-B/
+  477  dev
+  478  ls
+  479  cd UCB-VIRT-FIN-PT-03-2023-U-B/
+  480  ls
+  481  git pull https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-03-2023-U-B.git
+  482  ls
+  483  cd 07-Financial-Databases-with-SQL/
+  484  ls
+  485  jupytersee
+  486  dev
+  487  conda list sqlalchemy
+  488  conda install -c conda-forge voila
+  489  conda list SQLAlchemy
+  490  cd 
+  491  cd Desktop/
+  492  ls
+  493  git pull https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-03-2023-U-B.git
+  494  cd UCB-VIRT-FIN-PT-03-2023-U-B/
+  495  git pull all https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-03-2023-U-B.git
+  496  git pull https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-03-2023-U-B.git
+  497  dev
+  498  ls
+  499  cd UCB-VIRT-FIN-PT-03-2023-U-B/
+  500  code . 
+  501  dev
+  502  ls
+  503  6Module/
+  504  cd 6Module/
+  505  ls
+  506  cd Module_6_Challenge/
+  507  git status
+  508  history 50 > ./history.txt
